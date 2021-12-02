@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BlueCube
+  - RedCube
+  - GreenCube
+  - Barrier
+  - Destroyed
+  - Road
+  - Changer
+  - Multiplier
+  - Music
   layers:
   - Default
   - TransparentFX
